@@ -10,6 +10,8 @@
 
 ## 💻 The project 
   Nuxt authentication is a project that allows users to be created and logged into the application. Each user can have specific authorizations to access different pages of the application, ensuring strict control of permissions and security.
+ ![image](https://github.com/user-attachments/assets/b0b4dc69-c9fc-4cd0-ac1a-65ee419cea3b)
+  
 
 ## 🚀 Technologies
 * Vue
